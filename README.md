@@ -1,6 +1,19 @@
 # 2019BenBenPoemCorpus
 some corpura sharing
 
+语料库来源：
+-
+    1.新课标初高中必背古诗，选取了其中一部分，来源于网络搜索
+    2.Github开源语料库：
+      https://github.com/hujiaweibujidao/poetry/tree/master/data/aio
+    之后处理的语料库中，单句长度在9 - 20 之间，未加入元朝的诗词曲
+    3.[正繁体转换参考]
+      https://github.com/skydark/nstools/tree/master/zhtools
+
+局限性：
+-
+    语料库仍存在一些错误，如果大家在运行时发现了错误，可以反馈到这个邮箱：l759490561@gmail.com
+    
 参照《中国诗词大会》的题目形式
 -
     1.古诗带来的成语 module3_idiom
@@ -18,19 +31,6 @@ some corpura sharing
     主函数界面：
         简单介绍，输入1 2 3 4 5分别进入相应子模块，输入其他退出
     关注微信公众号“笨笨”，输入“笨笨古诗”或“笨笨古诗繁体”，可以互动喔
-
-语料库来源：
--
-    1.新课标初高中必背古诗，选取了其中一部分，来源于网络搜索
-    2.Github开源语料库：
-      https://github.com/hujiaweibujidao/poetry/tree/master/data/aio
-    之后处理的语料库中，单句长度在9 - 20 之间，未加入元朝的诗词曲
-    3.[正繁体转换参考]
-      https://github.com/skydark/nstools/tree/master/zhtools
-
-局限性：
--
-    语料库仍存在一些错误，如果大家在运行时发现了错误，可以反馈到这个邮箱：l759490561@gmail.com
 
 写代码的一个小结体会：
 -
