@@ -1,7 +1,6 @@
 # 2019BenBenPoemCorpus
-some corpura sharing
 关注微信公众号“笨笨”（微信号：benbenrobot），回复“笨笨古诗”或“笨笨古诗繁体”，可以互动喔
--
+
 语料库来源：
 -
     1.新课标初高中必背古诗，选取了其中一部分，来源于网络搜索
